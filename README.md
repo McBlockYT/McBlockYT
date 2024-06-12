@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McBlockYT
-- 👀 I’m interested in programming, and Minecraft
+- 👀 I’m interested in programming and Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: Discrod: Fishy6623
