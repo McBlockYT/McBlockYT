@@ -1,4 +1,4 @@
-$ curl https://example.ticketsbot.net/lookup?user=585576154958921739 | jq .
+
 {
   "online_status": "Online",
   "user": {
