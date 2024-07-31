@@ -1,0 +1,12 @@
+$ curl https://example.ticketsbot.net/lookup?user=585576154958921739 | jq .
+{
+  "online_status": "Online",
+  "user": {
+    "username": "Ryan",
+    "account_created_year": 2019,
+    "scores": {
+      "high_score": 3000,
+      "last_score": 400
+    }
+  }
+}
